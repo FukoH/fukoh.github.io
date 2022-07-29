@@ -1,6 +1,6 @@
 ---
 title: "Future Data Exploration And Minute Bar Generation"
-excerpt: "Explore Future data with python and generate minute bar using pyflink"
+excerpt: "Explore Future data with python and generate minute bar using [pyflink](https://github.com/FukoH/future_minute_bar/blob/main/tumbling_windows_sql.py)"
 collection: portfolio
 ---
 
