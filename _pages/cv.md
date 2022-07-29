@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Central University Of Finance and Economics, 2014
+* B.S. in Accounting, Central University Of Finance and Economics, 2014
 * M.S. in Software Engineering, Beihang University, 2020
 
 
@@ -19,31 +19,15 @@ Work experience
 ======
 * 2021 - 2022: Data Engineer
   * The Harvest Fund
-  * Duties included: 
-      * Collaborating with coworkers to conceptualize, develop, and release data and software
-      * Maintain and develop API tools for purchased software, [SequoiaDB](https://www.sequoiadb.com/en/)
+  * Duties included: maintain infrustructure and deliver data & software
 
 * 2019 - 2021: Data Engineer
   * China Everbright limited
-  * Duties included: 
-      * Create and maintain optimal data pipeline architecture
-      * Assemble large, complex data sets that meet functional / non-functional business requirements.
-      * Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
-      * Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and ‘big data’ technologies.
-      * Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+  * Duties included: Data engineering & Web Application Develop & Devops
 
 * 2017 - 2019 : Data mining engineer
   * Asiainfo
-  * Duties included: 
-    * Study and transform data science prototypes
-    * Design machine learning systems
-    * Research and implement appropriate ML algorithms and tools
-    * Develop machine learning applications according to requirements
-    * Select appropriate datasets and data representation methods
-    * Run machine learning tests and experiments
-    * Perform statistical analysis and fine-tuning using test results
-    * Train and retrain systems when necessary
-    * Extend existing ML libraries and frameworks
+  * Duties included: ML model training and business analytics
   
 
 
@@ -76,18 +60,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Events
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.events %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+<!--   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
