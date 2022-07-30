@@ -1,6 +1,7 @@
 ---
 title: '如何在Jupyter里以不同的运行模式使用Pyspark'
 date: 2018-04-28
+excerpt: 如题
 permalink: /posts/2018/04/如何在Jupyter里以不同的运行模式使用Pyspark/
 tags:
   - Data Science

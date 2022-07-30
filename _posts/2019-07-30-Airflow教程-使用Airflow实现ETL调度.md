@@ -1,6 +1,7 @@
 ---
 title: 'Airflow教程-使用Airflow实现ETL调度'
 date: 2019-07-30
+excerpt: 我使用Airflow的经验
 permalink: /posts/2019/07/Airflow教程-使用Airflow实现ETL调度/
 tags:
   - Data Engineering

@@ -1,6 +1,7 @@
 ---
 title: 'K8S,Spring Cloud Gateway,Nginx搭建随笔'
 date: 2020-06-10
+excerpt: 项目中遇到的实际情况
 permalink: /posts/2020/06/K8S,Spring Cloud Gateway,Nginx搭建随笔/
 tags:
   - BackEnd Develop

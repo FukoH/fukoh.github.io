@@ -1,6 +1,7 @@
 ---
 title: '多标签分类的结果评估---macro-average和micro-average介绍'
 date: 2018-04-13
+excerpt: 机器学习中如何评估多分类结果
 permalink: /posts/2018/04/多标签分类的结果评估---macro-average和micro-average介绍/
 tags:
   - Data Science

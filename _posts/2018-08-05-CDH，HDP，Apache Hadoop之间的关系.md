@@ -1,6 +1,7 @@
 ---
 title: 'CDH，HDP，Apache Hadoop之间的关系'
 date: 2018-08-05
+excerpt: 如题
 permalink: /posts/2018/05/CDH，HDP，Apache Hadoop之间的关系/
 tags:
   - Data Engineering
