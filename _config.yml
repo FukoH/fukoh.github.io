@@ -100,10 +100,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.cn/incareer/in/shengxin-huang-b1a279b5"
+  linkedin         : "shengxin-huang-b1a279b5"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/6730125/shengxin-huang"
+  stackoverflow    : "6730125/shengxin-huang"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -112,7 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cnblogs          : "https://www.cnblogs.com/yuuken/"
+  cnblogs          : "yuuken"
 
 # Reading Files
 include:
