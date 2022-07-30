@@ -60,11 +60,11 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Events
+<!-- Events
 ======
   <ul>{% for post in site.events %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
